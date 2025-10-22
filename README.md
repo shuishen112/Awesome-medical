@@ -32,5 +32,19 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [Huatuo-26M, a Large-scale Chinese Medical QA Dataset](https://arxiv.org/abs/2305.01526) | 2025|  EMNLP | |
+| [ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation](https://arxiv.org/pdf/2506.18095) | 2025|  Arxiv | |
+| [A dataset of clinically generated visual questions and answers about radiology images](https://www.nature.com/articles/sdata2018251.pdf) | 2018| Nature | |
+| [Slake: A semantically-labeled knowledge-enhanced dataset for medical visual question answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9434010) | 2021| IEEE | |
+
+## Evaluation
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V](https://arxiv.org/pdf/2310.19061) | 2023|  Arxiv | |
+| [Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine](https://www.nature.com/articles/s41746-024-01185-7.pdf) | 2024| Nature | |
+
+
+
+
 
 
