@@ -20,11 +20,14 @@ We want to reorganized the medical or health-care research from the view of vari
 | --------------- | :----: | :----: | :----: |
 | [MEDREK: RETRIEVAL-BASED EDITING FORMEDICAL LLMS WITH KEY-AWARE PROMPTS](https://arxiv.org/pdf/2510.13500) | 2025 |  Arxiv | |
 
-## Mixture of Experts
+## Modular medical LLMs
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339) | 2024 |  SIGIR | |
+| [A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment](https://arxiv.org/pdf/2505.10717) | 2025 |  ACL | |
+
+
 
 ## Datasets
 
