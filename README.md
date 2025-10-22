@@ -45,6 +45,8 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | --------------- | :----: | :----: | :----: |
 | [Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V](https://arxiv.org/pdf/2310.19061) | 2023|  Arxiv | |
 | [Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine](https://www.nature.com/articles/s41746-024-01185-7.pdf) | 2024| Nature | |
+| [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](https://arxiv.org/abs/2506.08584) | 2025|  Arxiv | |
+
 
 
 
