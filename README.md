@@ -25,3 +25,12 @@ We want to reorganized the medical or health-care research from the view of vari
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339) | 2024 |  SIGIR | |
+
+## Datasets
+
+These papers are mainly for contributing some datasets. For example, Huatuo-26M is a large-scale Chinese medical QA dataset. ShareGPT-4o-Images is a text-to-image and text-to-image-to-image datasets. The author finetuning the model on Janus-4o pro and improve the performance.
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [Huatuo-26M, a Large-scale Chinese Medical QA Dataset](https://arxiv.org/abs/2305.01526) | 2025|  EMNLP | |
+
+
