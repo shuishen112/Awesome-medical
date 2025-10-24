@@ -10,6 +10,7 @@ We want to reorganized the medical or health-care research from the view of vari
 | [HuatuoGPT, towards Taming Language Model to Be a Doctor](https://arxiv.org/abs/2305.15075) | 2023 |  EMNLP | |
 | [HuatuoGPT2, One-stage Training for Medical Adaption of LLMs](https://arxiv.org/abs/2305.15075) | 2024 |  COLM | |
 | [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925) | 2024 |  Arxiv | |
+| [MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom](https://arxiv.org/abs/2505.10717) | 2025 |  Arxiv | |
 
 
 ## Retrieval Augment Generation. 
@@ -26,6 +27,7 @@ We want to reorganized the medical or health-care research from the view of vari
 | --------------- | :----: | :----: | :----: |
 | [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339) | 2024 |  SIGIR | |
 | [A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment](https://arxiv.org/pdf/2505.10717) | 2025 |  ACL | |
+| [SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.pdf) | 2025 |  ICCV | |
 
 
 
