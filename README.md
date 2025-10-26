@@ -48,7 +48,14 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V](https://arxiv.org/pdf/2310.19061) | 2023|  Arxiv | |
 | [Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine](https://www.nature.com/articles/s41746-024-01185-7.pdf) | 2024| Nature | |
 | [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](https://arxiv.org/abs/2506.08584) | 2025|  Arxiv | |
+| [When Can We Trust LLMs in Mental Health? Large-Scale Benchmarks for Reliable LLM Evaluation](https://arxiv.org/abs/2510.19032) | 2025|  Arxiv | |
 
+## Reasoning
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom](https://arxiv.org/pdf/2510.19626) | 2025 |  Arxiv | |
+| [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925) | 2024 |  Arxiv | |
 
 
 
