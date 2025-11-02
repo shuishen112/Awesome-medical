@@ -40,6 +40,7 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation](https://arxiv.org/pdf/2506.18095) | 2025|  Arxiv | |
 | [A dataset of clinically generated visual questions and answers about radiology images](https://www.nature.com/articles/sdata2018251.pdf) | 2018| Nature | |
 | [Slake: A semantically-labeled knowledge-enhanced dataset for medical visual question answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9434010) | 2021| IEEE | |
+| [3DReasonKnee: Advancing Grounded Reasoning in Medical Vision Language Models](https://arxiv.org/abs/2510.20967) | 2025|  Arxiv | |
 
 ## Evaluation
 
