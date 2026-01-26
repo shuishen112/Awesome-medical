@@ -61,8 +61,10 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom](https://arxiv.org/pdf/2510.19626) | 2025 |  Arxiv | |
 | [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925) | 2024 |  Arxiv | |
 
-
-
+## Application
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| [An Agentic System for Rare Disease Diagnosis with
+Traceable Reasoning](https://arxiv.org/pdf/2506.20430) | 2025 |  Nature | |
 
 
 
