@@ -59,7 +59,14 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925) | 2024 |  Arxiv | |
 
 
+## Applications
 
+### rare disease diagnosis
 
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models](https://arxiv.org/pdf/2602.20324) | 2026 |  Arxiv | |
+| [An agentic system for rare disease diagnosis with traceable reasoning](https://www.nature.com/articles/s41586-025-10097-9) | 2026 |  Nature | |
+| [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/pdf/2602.12705) | 2026 |  Arxiv | |
 
 
