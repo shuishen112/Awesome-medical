@@ -51,7 +51,7 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](https://arxiv.org/abs/2506.08584) | 2025|  Arxiv | |
 | [When Can We Trust LLMs in Mental Health? Large-Scale Benchmarks for Reliable LLM Evaluation](https://arxiv.org/abs/2510.19032) | 2025|  Arxiv | |
 | [Benchmarking large language models for biomedical natural language processing applications and recommendations](https://www.nature.com/articles/s41467-025-56989-2) | 2025|  Nature | |
-
+| [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459) | 2025|  Arxiv | |
 
 
 ## Reasoning
