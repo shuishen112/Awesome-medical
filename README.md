@@ -53,6 +53,7 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [Benchmarking large language models for biomedical natural language processing applications and recommendations](https://www.nature.com/articles/s41467-025-56989-2) | 2025|  Nature | |
 | [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459) | 2025|  Arxiv | |
 | [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://arxiv.org/abs/2402.06341) | 2024 |  KDD | |
+| [https://github.com/BirgerMoell/swedish-medical-benchmark/](https://github.com/BirgerMoell/swedish-medical-benchmark/) | 2024 |   | |
 
 ## Reasoning
 
