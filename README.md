@@ -41,6 +41,7 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | [A dataset of clinically generated visual questions and answers about radiology images](https://www.nature.com/articles/sdata2018251.pdf) | 2018| Nature | |
 | [Slake: A semantically-labeled knowledge-enhanced dataset for medical visual question answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9434010) | 2021| IEEE | |
 | [3DReasonKnee: Advancing Grounded Reasoning in Medical Vision Language Models](https://arxiv.org/abs/2510.20967) | 2025|  Arxiv | |
+| [https://github.com/openmedlab/Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset) | 2026|  github | |
 
 ## Evaluation
 
@@ -48,12 +49,17 @@ These papers are mainly for contributing some datasets. For example, Huatuo-26M 
 | --------------- | :----: | :----: | :----: |
 | [Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V](https://arxiv.org/pdf/2310.19061) | 2023|  Arxiv | |
 | [Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine](https://www.nature.com/articles/s41746-024-01185-7.pdf) | 2024| Nature | |
-| [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](https://arxiv.org/abs/2506.08584) | 2025|  Arxiv | |
-| [When Can We Trust LLMs in Mental Health? Large-Scale Benchmarks for Reliable LLM Evaluation](https://arxiv.org/abs/2510.19032) | 2025|  Arxiv | |
+| [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](https://arxiv.org/abs/2506.08584) | 2025|  ICLR2026 | |
+| [MHQA: A Diverse, Knowledge Intensive Mental Health Question Answering Challenge for Language Models](https://arxiv.org/pdf/2502.15418) | 2025|  Arxiv | |
+| [Do large language models align with core mental health counseling competencies?](https://aclanthology.org/2025.findings-naacl.418.pdf) | 2025|  ACL | |
+
+
+| [When Can We Trust LLMs in Mental Health? Large-Scale Benchmarks for Reliable LLM Evaluation](https://arxiv.org/abs/2510.19032) | 2025|  ACL | |
 | [Benchmarking large language models for biomedical natural language processing applications and recommendations](https://www.nature.com/articles/s41467-025-56989-2) | 2025|  Nature | |
 | [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459) | 2025|  Arxiv | |
 | [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://arxiv.org/abs/2402.06341) | 2024 |  KDD | |
 | [https://github.com/BirgerMoell/swedish-medical-benchmark/](https://github.com/BirgerMoell/swedish-medical-benchmark/) | 2024 |   | |
+| [MEDBENCH V4: A ROBUST AND SCALABLE BENCHMARK FOREVALUATING CHINESE MEDICAL LANGUAGE MODELS,MULTIMODAL MODELS, AND INTELLIGENT AGENTS](https://arxiv.org/pdf/2511.14439) | 2025 |  github | |
 
 ## Reasoning
 
